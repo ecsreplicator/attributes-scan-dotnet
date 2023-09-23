@@ -1,0 +1,22 @@
+{
+    "name": "EcsReplicator.Attributes.Scan",
+    "rootNamespace": "EcsReplicator.Attributes.Scan",
+    "references": [
+        "Piot.Clog",
+        "EcsReplicator.Attributes"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Mono.CecilEx.dll",
+        "Mono.CecilEx.Rocks.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
